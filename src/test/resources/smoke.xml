@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="dz11 tests ">
+
+    <test name="Operations smoke">
+        <classes>
+            <class name="operations.GetterSetterTests"/>
+        </classes>
+    </test>
+</suite>
